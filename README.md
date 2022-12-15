@@ -1,2 +1,2 @@
 # yolovision
-/*using open cv for yolo classifier*/
+*/using open cv for yolo classifier*/
