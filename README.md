@@ -1,2 +1,7 @@
-# yolovision
-*/using open cv for yolo classifier*/
+# Yolovision
+## Technologies
+***
+A list of technologies used within the project:
+* [Java]
+* [OpenCV]
+* [CUDA]
